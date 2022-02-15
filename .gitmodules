@@ -1,0 +1,3 @@
+[submodule "coinbase-clone"]
+	path = coinbase-clone
+	url = https://github.com/gen02-dev/coinbase-clone
